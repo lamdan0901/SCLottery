@@ -5,6 +5,6 @@
 - After X period of time, the lottery will automatically draw a winner
   This will be done programmatically
 - Using Chainlink VRF for Randomness and
-  Chainlink Automation for Time based trigger
+   Chainlink Automation for Time based trigger
 
 ## Documentation
